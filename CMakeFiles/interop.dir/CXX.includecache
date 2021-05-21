@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/joes/Code/Kronos/kronos-interop-test/interop.h
+stdint.h
+-
+stdlib.h
+-
+
+/Users/joes/Code/Kronos/kronos-interop-test/main.cpp
+interop.h
+/Users/joes/Code/Kronos/kronos-interop-test/interop.h
+vector
+-
+

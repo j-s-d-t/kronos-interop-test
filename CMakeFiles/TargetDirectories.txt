@@ -1,0 +1,3 @@
+/Users/joes/Code/Kronos/kronos-interop-test/CMakeFiles/rebuild_cache.dir
+/Users/joes/Code/Kronos/kronos-interop-test/CMakeFiles/edit_cache.dir
+/Users/joes/Code/Kronos/kronos-interop-test/CMakeFiles/interop.dir
